@@ -9,7 +9,8 @@ function App() {
   return (
   <>
   
- hello world
+<p> hello world</p>
+<p>pushing git</p>
   </>
   );
 }
